@@ -1,4 +1,4 @@
-strContent = Hello
+strContent = Nhìn Gì
 hasCancelBtn = true
 onConfirm = https://www.youtube.com/
 onCancel = https://google.com
