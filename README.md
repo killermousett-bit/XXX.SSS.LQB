@@ -5,4 +5,4 @@ onCancel = https://google.com
 confirmStr = Youtube
 cancelStr = Google
 titleStr = Thông Báo
-isShowCloseBtn = false
+isShowCloseBtn = true
