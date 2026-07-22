@@ -1,8 +1,8 @@
 strContent = Hello
 hasCancelBtn = true
-onConfirm = nil
+onConfirm = https://www.youtube.com/
 onCancel = https://google.com
-confirmStr = OK
-cancelStr = Cancel
-titleStr = Title
+confirmStr = Youtube
+cancelStr = Google
+titleStr = Thông Báo
 isShowCloseBtn = false
